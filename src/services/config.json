@@ -1,0 +1,7 @@
+{
+    "BASE_URL":"https://eventresults-api.sporthive.com/api",
+    "EVENT_ID":"PC2046348",
+    "ES_EVENT_ID":"PC2038352",
+    "HJ_EVENT_ID":"PC1991179",
+    "PS_EVENT_ID" : "PC2011455"
+}
