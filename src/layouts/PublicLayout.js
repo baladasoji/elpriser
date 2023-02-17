@@ -25,7 +25,7 @@ const PublicLayout = ({children}) => {
     return (
       <ThemeProvider theme={theme}>
       <Container sx={{p:0.0, m:0.0}} maxWidth="md">
-        <Box sx={{ bgcolor: 'rgb(30,30,30)', p:0.3, m:0.2, border:'2px dashed gray'}}>
+        <Box sx={{ bgcolor: 'rgb(30,30,30)', p:0.3, m:0.1, border:'0px dashed gray'}}>
              <PublicAppBar/> 
              {children}
         </Box>
